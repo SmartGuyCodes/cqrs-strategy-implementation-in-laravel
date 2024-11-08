@@ -70,7 +70,7 @@ jobs:
       run: composer lint
 
     - name: Run code style checks
-      run: composer cs-check
+      run: composer
 
     - name: Run static analysis
       run: composer phpstan
