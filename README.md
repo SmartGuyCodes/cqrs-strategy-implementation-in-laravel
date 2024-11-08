@@ -1,7 +1,8 @@
 # Implementing CQRS with Laravel
 
-[![Build Status](https://github.com/SmartGuyCodes/cqrs-strategy-implementation-in-laravel/workflows/cci/badge.svg?branch=v2)](https://github.com/SmartGuyCodes/cqrs-strategy-implementation-in-laravel/actions?query=workflow%3Acci)
-[![Quality Score](https://img.shields.io/SmartGuyCodes/cqrs-strategy-implementation-in-laravel.svg?style=flat-square)](https://github.com/SmartGuyCodes/cqrs-strategy-implementation-in-laravel)
+![Build Status](https://github.com/SmartGuyCodes/cqrs-strategy-implementation-in-laravel/.github/workflows/cci.yml/badge.svg)
+
+<!-- [![Quality Score](https://img.shields.io/SmartGuyCodes/cqrs-strategy-implementation-in-laravel.svg?style=flat-square)](https://github.com/SmartGuyCodes/cqrs-strategy-implementation-in-laravel) -->
 
 This repository demonstrates a Command Query Responsibility Segregation (CQRS) pattern to achieve flexibility, agility, and performance in a web service built using Laravel 11. It features a simple Article API that supports standard CRUD operations and showcases the advantages of CQRS in designing scalable and efficient systems.
 
