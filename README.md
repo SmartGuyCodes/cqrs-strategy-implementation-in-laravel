@@ -1,4 +1,4 @@
-# Article API Documentation - Implementing CQRS with Laravel
+# Implementing CQRS with Laravel
 
 This repository demonstrates a Command Query Responsibility Segregation (CQRS) pattern to achieve flexibility, agility, and performance in a web service built using Laravel 11. It features a simple Article API that supports standard CRUD operations and showcases the advantages of CQRS in designing scalable and efficient systems.
 
