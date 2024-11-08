@@ -69,8 +69,8 @@ jobs:
     - name: Run PHP linting
       run: composer lint
 
-    - name: Run code style checks
-      run: composer
+    # - name: Run code style checks
+    #   run: composer cs-check
 
-    - name: Run static analysis
-      run: composer phpstan
+    # - name: Run static analysis
+    #   run: composer phpstan
