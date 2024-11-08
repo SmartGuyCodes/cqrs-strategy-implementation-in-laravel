@@ -64,7 +64,7 @@ jobs:
         DB_DATABASE: laravel
         DB_USERNAME: laravel
         DB_PASSWORD: password
-      run: php artisan test --parallel
+      run: php artisan test
 
     - name: Run PHP linting
       run: composer lint
